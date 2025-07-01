@@ -1,8 +1,6 @@
 ## Welcome to Andy Futcher `h2`
 
-This is the enterprise page of Andy Futchers repositories, imbued with the inventors spirit offered to the world by Main HTML and Main JS. `p`
-
-In the future I might use this organisation for collaboration and further developments, but for now please visit my personal GitHub page here: [Andy Futcher](https://github.com/AndyFutcher)
+In the future I might use this organisation for collaboration and further developments, but for now please visit my personal GitHub page here: [Andy Futcher](https://github.com/AndyFutcher) `p`
 
 🍿 You'll get the `code` insert joke when you see Main HTML template.
 
